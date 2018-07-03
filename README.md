@@ -45,7 +45,7 @@
 
     // 单个操作
     // 添加一个自定义词
-    DictionaryFactory.getDictionary().add("杨尚川");
+    DictionaryFactory.getDictionary().add("周杰伦");
     // 删除一个自定义词
     DictionaryFactory.getDictionary().remove("刘诗诗");
     // 批量操作
